@@ -28,6 +28,13 @@
 **Learning Outcomes:** This analysis was a great opportunity to apply the skills I had already gained to a real-world problem. Through my studies at University, it is easy to become accustomed to using datasets that are provided by my educators, which are often clean and easy to handle. This can be followed by instructions on how to proceed with the analysis. In contrast, this task required considerable independent logical and analytical self-sufficiency. I enjoyed this opportunity to learn how to navigate and tailor the machine learning process to a specific situation, and to infer for myself the conclusions that can be gained from the analysis results. 
 
 ### How to Run the Code
-**Setup:** *Provide instructions on setting up the project, including dependencies or libraries to install*
+You can view the notebook directly in GitHub or execute the cells in Jupyter Notebook to explore the analysis.
+If you are wanting to view it in GitHub directly, open the file called 'Python Regression Project'. 
+If you are wanting to execute the cells in Jupyter Notebook, follow the below steps
 
-**Execution:** *Explain how to run the scripts or notebook files to reproduce your results*
+1. Download the Jupyter Notebook file directly from this repository. It is title 'Python Regression Project'.
+2. This notebook relies on a dataset, called 'flights'. Download the dataset from this repository and ensure the file is placed in the same directory or the appropriate path specified in the notebook.
+3. Ensure you have Jupyter Notebook installed.
+4. Launch Jupyter Notebook from your terminal
+5. Navigate to the directory containing the download notebook file and open it
+You can now explore the analysis. 
