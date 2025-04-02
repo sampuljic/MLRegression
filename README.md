@@ -33,7 +33,7 @@ If you are wanting to view it in GitHub directly, open the file called 'Python R
 If you are wanting to execute the cells in Jupyter Notebook, follow the below steps
 
 1. Download the Jupyter Notebook file directly from this repository. It is title 'Python Regression Project'.
-2. This notebook relies on a dataset, called 'flights'. Download the dataset from this repository and ensure the file is placed in the same directory or the appropriate path specified in the notebook.
+2. This notebook relies on a dataset, called 'economy.csv'. Download the dataset from this repository and ensure the file is placed in the same directory or the appropriate path specified in the notebook.
 3. Ensure you have Jupyter Notebook installed.
 4. Launch Jupyter Notebook from your terminal
 5. Navigate to the directory containing the download notebook file and open it
